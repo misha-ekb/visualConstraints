@@ -6,8 +6,6 @@
 //  Copyright (c) 2015 Catalina Turlea. All rights reserved.
 //
 
-@import UIKit;
-
 /**
  *  Category to facilitate using the visual constraints format
  */
